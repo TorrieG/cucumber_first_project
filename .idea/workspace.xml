@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7973543f-b000-401d-ae82-f143e2509cc3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/AutoLoanCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/CarFinderPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HelpMeSearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/SellMyCarPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runners/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/BaseSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/CarvanaSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ActionsUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/AlertHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/DropdownHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Waiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/carvana.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ayt2ybPEoIBhZHljgGDFiV3JZ5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mstor\IdeaProjects\cucumber_first_project\src\test\java" />
+      <recent name="C:\Users\mstor\IdeaProjects\cucumber_first_project" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mstor\IdeaProjects\cucumber_first_project\src\test" />
+      <recent name="C:\Users\mstor\IdeaProjects\cucumber_first_project" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="steps" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: Validate SELL/TRADE invalid vin search">
+    <configuration name="Feature: carvana" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/carvana.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="cucumber_first_project" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: carvana" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Validate AUTO LOAN CALCULATOR under FINANCING menu item" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/carvana.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="cucumber_first_project" />
+      <option name="NAME_FILTER" value="^Validate AUTO LOAN CALCULATOR under FINANCING menu item$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Validate AUTO LOAN CALCULATOR under FINANCING menu item$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Validate AUTO LOAN CALCULATOR under FINANCING menu item" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Validate CAR FINDER menu item" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/carvana.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="cucumber_first_project" />
+      <option name="NAME_FILTER" value="^Validate CAR FINDER menu item$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Validate CAR FINDER menu item$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Validate CAR FINDER menu item" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Validate SELL/TRADE invalid vin search" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/carvana.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="cucumber_first_project" />
+      <option name="NAME_FILTER" value="^Validate SELL\/TRADE invalid vin search$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Validate SELL\/TRADE invalid vin search$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Validate SELL/TRADE invalid vin search" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: Validate SELL/TRADE invalid vin search" />
+        <item itemvalue="Cucumber Java.Scenario: Validate CAR FINDER menu item" />
+        <item itemvalue="Cucumber Java.Scenario: Validate AUTO LOAN CALCULATOR under FINANCING menu item" />
+        <item itemvalue="Cucumber Java.Feature: carvana" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7973543f-b000-401d-ae82-f143e2509cc3" name="Changes" comment="" />
+      <created>1655993453311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655993453311</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
