@@ -1,18 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: runners.Runner
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 26.76 s <<< FAILURE! - in runners.Runner
-Validate SELL/TRADE invalid vin search(Carvana Header Links Functionality)  Time elapsed: 10.896 s  <<< ERROR!
-org.openqa.selenium.NotFoundException: 
-The heading3 text is not defined properly in the feature file!!!
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-36D5C16', ip: '192.168.0.161', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_321'
-Driver info: driver.version: unknown
-
-Validate AUTO LOAN CALCULATOR under FINANCING menu item(Carvana Header Links Functionality)  Time elapsed: 6.368 s  <<< ERROR!
-org.openqa.selenium.NotFoundException: 
-The link is not defined properly in the feature file!!!
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-36D5C16', ip: '192.168.0.161', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_321'
-Driver info: driver.version: unknown
-
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 28.793 s - in runners.Runner

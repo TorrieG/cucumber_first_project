@@ -1,5 +1,4 @@
 @Regression
-
 Feature: Carvana Header Links Functionality
 
   Background:
@@ -27,14 +26,14 @@ Feature: Carvana Header Links Functionality
     When user clicks on "VIN" button
     And user enters vin number as "00000000000000000"
     And user clicks on "GET MY OFFER" button
-    Then user should see "We couldn’t find that VIN. Please check your entry and try again." text
+    Then user should see "We couldn't find that VIN. Please check your entry and try again." text
 
 
   Scenario: Validate AUTO LOAN CALCULATOR under FINANCING menu item
     When user hovers over on "FINANCING" menu item
     And user clicks on "AUTO LOAN CALCULATOR" menu item
     When user enters "Cost of Car I want" as "10,000"
-    And user selects "What’s Your credit Score?" as "Excellent: 780"
+    And user selects "What's Your credit Score?" as "Excellent: 780"
     And user selects "Choose Your Loan Terms" as "60 Months"
     And user enters "What is Your Down Payment?" as "1,500"
     Then user should see the monthly payment as "154.00"

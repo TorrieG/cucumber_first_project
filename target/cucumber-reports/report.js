@@ -235,17 +235,15 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "user should see \"We couldn’t find that VIN. Please check your entry and try again.\" text",
+  "name": "user should see \"We couldn\u0027t find that VIN. Please check your entry and try again.\" text",
   "keyword": "Then "
 });
 formatter.match({
   "location": "CarvanaSteps.userShouldSeeText(String)"
 });
 formatter.result({
-  "error_message": "org.openqa.selenium.NotFoundException: The heading3 text is not defined properly in the feature file!!!\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-36D5C16\u0027, ip: \u0027192.168.0.161\u0027, os.name: \u0027Windows 11\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_321\u0027\nDriver info: driver.version: unknown\r\n\tat steps.CarvanaSteps.userShouldSeeText(CarvanaSteps.java:98)\r\n\tat ✽.user should see \"We couldn’t find that VIN. Please check your entry and try again.\" text(src/test/resources/features/carvana.feature:30)\r\n",
-  "status": "failed"
+  "status": "passed"
 });
-formatter.embedding("image/png", "embedded0.png");
 formatter.after({
   "status": "passed"
 });
@@ -311,15 +309,14 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "user selects \"What’s Your credit Score?\" as \"Excellent: 780\"",
+  "name": "user selects \"What\u0027s Your credit Score?\" as \"Excellent: 780\"",
   "keyword": "And "
 });
 formatter.match({
   "location": "CarvanaSteps.userSelectsAs(String,String)"
 });
 formatter.result({
-  "error_message": "org.openqa.selenium.NotFoundException: The link is not defined properly in the feature file!!!\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-36D5C16\u0027, ip: \u0027192.168.0.161\u0027, os.name: \u0027Windows 11\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_321\u0027\nDriver info: driver.version: unknown\r\n\tat steps.CarvanaSteps.userSelectsAs(CarvanaSteps.java:178)\r\n\tat ✽.user selects \"What’s Your credit Score?\" as \"Excellent: 780\"(src/test/resources/features/carvana.feature:37)\r\n",
-  "status": "failed"
+  "status": "passed"
 });
 formatter.step({
   "name": "user selects \"Choose Your Loan Terms\" as \"60 Months\"",
@@ -329,7 +326,7 @@ formatter.match({
   "location": "CarvanaSteps.userSelectsAs(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
   "name": "user enters \"What is Your Down Payment?\" as \"1,500\"",
@@ -339,7 +336,7 @@ formatter.match({
   "location": "CarvanaSteps.userEntersAs(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
   "name": "user should see the monthly payment as \"154.00\"",
@@ -349,9 +346,8 @@ formatter.match({
   "location": "CarvanaSteps.userShouldSeeTheMonthlyPaymentAs(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
-formatter.embedding("image/png", "embedded1.png");
 formatter.after({
   "status": "passed"
 });

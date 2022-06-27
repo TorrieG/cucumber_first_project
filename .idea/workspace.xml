@@ -5,23 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7973543f-b000-401d-ae82-f143e2509cc3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/AutoLoanCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/CarFinderPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HelpMeSearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/SellMyCarPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/BaseSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/CarvanaSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ActionsUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/AlertHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/DropdownHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Waiter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/carvana.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/AutoLoanCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/AutoLoanCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/CarvanaSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/CarvanaSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/carvana.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/carvana.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/Cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-reports/Cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/embedded0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/embedded1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-reports/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-runners.Runner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-runners.Runner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/runners.Runner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/runners.Runner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/CarvanaSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/CarvanaSteps.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +48,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -68,7 +63,7 @@
       <recent name="steps" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: Validate SELL/TRADE invalid vin search">
+  <component name="RunManager" selected="Cucumber Java.Feature: carvana">
     <configuration name="Feature: carvana" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="4" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/carvana.feature" />
@@ -150,10 +145,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Feature: carvana" />
         <item itemvalue="Cucumber Java.Scenario: Validate SELL/TRADE invalid vin search" />
         <item itemvalue="Cucumber Java.Scenario: Validate CAR FINDER menu item" />
         <item itemvalue="Cucumber Java.Scenario: Validate AUTO LOAN CALCULATOR under FINANCING menu item" />
-        <item itemvalue="Cucumber Java.Feature: carvana" />
       </list>
     </recent_temporary>
   </component>

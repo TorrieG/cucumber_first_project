@@ -13,12 +13,6 @@ public class AutoLoanCalculator {
         PageFactory.initElements(Driver.getDriver(), this);
     }
 
-    @FindBy(css = ".loan-calculator-field-label")
-    public List<WebElement> loanCalculatorLabels;
-
-    @FindBy(css = ".input-group>input")
-    public List<WebElement> calculatorInputBoxes;
-
     @FindBy(css = "#creditBlock>option")
     public List<WebElement> creditScoreOptions;
 
